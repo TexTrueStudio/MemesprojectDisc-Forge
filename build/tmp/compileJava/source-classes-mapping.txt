@@ -1,0 +1,10 @@
+net/texstudio/memesprojectdiscforge/item/SuonaItem.java
+ net.texstudio.memesprojectdiscforge.item.SuonaItem
+ net.texstudio.memesprojectdiscforge.item.SuonaItem$ItemCustom
+net/texstudio/memesprojectdiscforge/MemesprojectdiscforgeModElements.java
+ net.texstudio.memesprojectdiscforge.MemesprojectdiscforgeModElements
+ net.texstudio.memesprojectdiscforge.MemesprojectdiscforgeModElements$ModElement
+ net.texstudio.memesprojectdiscforge.MemesprojectdiscforgeModElements$ModElement$Tag
+net/texstudio/memesprojectdiscforge/MemesprojectdiscforgeMod.java
+ net.texstudio.memesprojectdiscforge.MemesprojectdiscforgeMod
+ net.texstudio.memesprojectdiscforge.MemesprojectdiscforgeMod$MemesprojectdiscforgeModFMLBusEvents

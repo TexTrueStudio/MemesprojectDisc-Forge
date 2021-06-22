@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+
+[[mods]]
+modId="memesprojectdiscforge"
+version="0.0.1Alpha"
+displayName="MemesProjectDisc-Forge"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="Tex, TexStudio,MCreator"
+
+[[dependencies.memesprojectdiscforge]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
