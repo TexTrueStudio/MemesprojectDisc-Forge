@@ -9,26 +9,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "suona"
-    },
-    {
-      "name": "SuonaDisc",
-      "type": "tab",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "suona_disc"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "itemGroup.tabsuona_disc": "Suona Disc",
       "item.memesprojectdiscforge.suona": "Suona"
     },
     "zh_cn": {
-      "itemGroup.tabsuona_disc": "Suona Disc",
       "item.memesprojectdiscforge.suona": "ßïÄÅ"
     }
   },

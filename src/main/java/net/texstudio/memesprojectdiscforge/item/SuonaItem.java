@@ -1,6 +1,7 @@
 
 package net.texstudio.memesprojectdiscforge.item;
 
+import net.texstudio.memesprojectdiscforge.itemgroup.SuonaDiscItemGroup;
 import net.texstudio.memesprojectdiscforge.MemesprojectdiscforgeModElements;
 
 import net.minecraftforge.registries.ObjectHolder;
@@ -9,7 +10,6 @@ import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.item.Rarity;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.inventory.EquipmentSlotType;
 import net.minecraft.entity.ai.attributes.Attributes;
@@ -34,7 +34,7 @@ public class SuonaItem extends MemesprojectdiscforgeModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.TOOLS).maxStackSize(64).isImmuneToFire().rarity(Rarity.COMMON));
+			super(new Item.Properties().group(SuonaDiscItemGroup.tab).maxStackSize(64).isImmuneToFire().rarity(Rarity.COMMON));
 			setRegistryName("suona");
 		}
 

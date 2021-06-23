@@ -8,7 +8,7 @@
     "name": "Suona",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:SuonaDisc"
     },
     "stackSize": 64,
     "enchantability": 0,
