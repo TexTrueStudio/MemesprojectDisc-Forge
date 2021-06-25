@@ -18,18 +18,40 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "suona_disc"
+    },
+    {
+      "name": "RoughStar",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rough_star"
+    },
+    {
+      "name": "GenshinImpactOST",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "genshin_impact_ost"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "itemGroup.tabsuona_disc": "Suona Disc",
-      "item.memesprojectdiscforge.suona": "Suona"
+      "itemGroup.tabgenshin_impact_ost": "MemesProjectDisc-Genshin Impact OST",
+      "itemGroup.tabsuona_disc": "MemesProjectDisc-Suona Disc",
+      "item.memesprojectdiscforge.suona": "Suona",
+      "item.memesprojectdiscforge.rough_star": "Rough Star"
     },
     "zh_cn": {
-      "itemGroup.tabsuona_disc": "Suona Disc",
-      "item.memesprojectdiscforge.suona": "ßïÄÅ"
+      "itemGroup.tabgenshin_impact_ost": "MemesProjectDisc-Genshin Impact OST",
+      "itemGroup.tabsuona_disc": "MemesProjectDisc-ßïÄÅ³ªÆ¬",
+      "item.memesprojectdiscforge.suona": "ßïÄÅ",
+      "item.memesprojectdiscforge.rough_star": "Rough Star"
     }
   },
   "foldersRoot": {
@@ -41,14 +63,17 @@
     "modName": "MemesProjectDisc-Forge",
     "version": "0.0.1Alpha",
     "author": "Tex, TexStudio,MCreator",
+    "websiteURL": "https://mcreator.net",
     "license": "MIT License",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
+    "modPicture": "memesprojectdflogo",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator",
     "modElementsPackage": "net.texstudio.memesprojectdiscforge",
     "lockBaseModFiles": false
   },

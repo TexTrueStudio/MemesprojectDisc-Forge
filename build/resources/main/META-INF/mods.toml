@@ -6,8 +6,9 @@ license="MIT License"
 modId="memesprojectdiscforge"
 version="0.0.1Alpha"
 displayName="MemesProjectDisc-Forge"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
+credits="Created using mod maker MCreator"
 displayURL="https://mcreator.net"
+logoFile="logo.png"
 authors="Tex, TexStudio,MCreator"
 
 [[dependencies.memesprojectdiscforge]]

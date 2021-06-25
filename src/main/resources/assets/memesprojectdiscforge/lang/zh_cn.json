@@ -1,4 +1,6 @@
 {
-  "itemGroup.tabsuona_disc": "Suona Disc",
-  "item.memesprojectdiscforge.suona": "唢呐"
+  "itemGroup.tabgenshin_impact_ost": "MemesProjectDisc-Genshin Impact OST",
+  "itemGroup.tabsuona_disc": "MemesProjectDisc-唢呐唱片",
+  "item.memesprojectdiscforge.suona": "唢呐",
+  "item.memesprojectdiscforge.rough_star": "Rough Star"
 }
