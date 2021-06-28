@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "vortex_of_legends_ost",
+    "name": "Ad Oblivione",
+    "description": "Chen ZhiYi,HOYO-MiX - Ad Oblivione",
+    "creativeTab": {
+      "value": "CUSTOM:GenshinImpactOST"
+    },
+    "music": {
+      "value": "CUSTOM:ad_oblivione"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

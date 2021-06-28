@@ -1,0 +1,268 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Suona",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "suona"
+    },
+    {
+      "name": "SuonaDisc",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "suona_disc"
+    },
+    {
+      "name": "RoughStar",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rough_star"
+    },
+    {
+      "name": "GenshinImpactOST",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "genshin_impact_ost"
+    },
+    {
+      "name": "AbidingChills",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "abiding_chills"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "abiding_chills",
+      "files": [
+        "chen_zhiyihoyo-mix_-_abiding_chills"
+      ],
+      "category": "music",
+      "subtitle": "Chen ZhiYi,HOYO-MiX - Abiding Chills"
+    },
+    {
+      "name": "ad_oblivione",
+      "files": [
+        "chen_zhiyihoyo-mix_-_ad_oblivione"
+      ],
+      "category": "music",
+      "subtitle": "Chen ZhiYi,HOYO-MiX - Ad Oblivione"
+    },
+    {
+      "name": "chattering_snowflakes",
+      "files": [
+        "chen_zhiyihoyo-mix_-_chattering_snowflakes"
+      ],
+      "category": "music",
+      "subtitle": "Chen ZhiYi,HOYO-MiX - Chattering Snowflakes"
+    },
+    {
+      "name": "finale_of_the_snowtomb",
+      "files": [
+        "chen_zhiyihoyo-mix_-_finale_of_the_snowtomb"
+      ],
+      "category": "music",
+      "subtitle": "Chen ZhiYi,HOYO-MiX - Finale of the Snowtomb"
+    },
+    {
+      "name": "fragile_antasy",
+      "files": [
+        "chen_zhiyihoyo-mix_-_fragile_fantasy"
+      ],
+      "category": "music",
+      "subtitle": "Chen ZhiYi,HOYO-MiX - Fragile Fantasy"
+    },
+    {
+      "name": "glistening_shards",
+      "files": [
+        "chen_zhiyihoyo-mix_-_glistening_shards"
+      ],
+      "category": "music",
+      "subtitle": "Chen ZhiYi,HOYO-MiX - Glistening Shards"
+    },
+    {
+      "name": "in_the_desolate_hallway",
+      "files": [
+        "chen_zhiyihoyo-mix_-_in_the_desolate_hallway"
+      ],
+      "category": "music",
+      "subtitle": "Chen ZhiYi,HOYO-MiX - In the Desolate Hallway"
+    },
+    {
+      "name": "menacing_cove",
+      "files": [
+        "chen_zhiyihoyo-mix_-_menacing_cove"
+      ],
+      "category": "music",
+      "subtitle": "Chen ZhiYi,HOYO-MiX - Menacing Cove"
+    },
+    {
+      "name": "moonlike_smile",
+      "files": [
+        "chen_zhiyihoyo-mix_-_moonlike_smile"
+      ],
+      "category": "music",
+      "subtitle": "Chen ZhiYi,HOYO-MiX - Moonlike Smile"
+    },
+    {
+      "name": "once-colored_memories",
+      "files": [
+        "chen_zhiyihoyo-mix_-_once-colored_memories"
+      ],
+      "category": "music",
+      "subtitle": "Chen ZhiYi,HOYO-MiX - Once-Colored Memories"
+    },
+    {
+      "name": "serene_and_sweet_adieu",
+      "files": [
+        "chen_zhiyihoyo-mix_-_serene_and_sweet_adieu",
+        "chen_zhiyihoyo-mix_-_serene_and_sweet_adieu"
+      ],
+      "category": "music",
+      "subtitle": "Chen ZhiYi,HOYO-MiX - Serene and Sweet Adieu"
+    },
+    {
+      "name": "sinister_mist",
+      "files": [
+        "chen_zhiyihoyo-mix_-_sinister_mist",
+        "chen_zhiyihoyo-mix_-_sinister_mist"
+      ],
+      "category": "music",
+      "subtitle": "Chen ZhiYi,HOYO-MiX - Sinister Mist"
+    },
+    {
+      "name": "snow-buried_tales",
+      "files": [
+        "chen_zhiyihoyo-mix_-_snow-buried_tales",
+        "chen_zhiyihoyo-mix_-_snow-buried_tales"
+      ],
+      "category": "music",
+      "subtitle": "Chen ZhiYi,HOYO-MiX - Snow-Buried Tales"
+    },
+    {
+      "name": "spin_of_ice_crystals",
+      "files": [
+        "chen_zhiyihoyo-mix_-_spin_of_ice_crystals"
+      ],
+      "category": "music",
+      "subtitle": "Chen ZhiYi,HOYO-MiX - Spin of Ice Crystals"
+    },
+    {
+      "name": "striding_in_the_snowstorm",
+      "files": [
+        "chen_zhiyihoyo-mix_-_striding_in_the_snowstorm"
+      ],
+      "category": "music",
+      "subtitle": "Chen ZhiYi,HOYO-MiX - Striding in the Snowstorm"
+    },
+    {
+      "name": "the_flourishing_past",
+      "files": [
+        "chen_zhiyihoyo-mix_-_the_flourishing_past"
+      ],
+      "category": "music",
+      "subtitle": "Chen ZhiYi,HOYO-MiX - The Flourishing Past"
+    },
+    {
+      "name": "unfinished_frescoes",
+      "files": [
+        "chen_zhiyihoyo-mix_-_unfinished_frescoes"
+      ],
+      "category": "music",
+      "subtitle": "Chen ZhiYi,HOYO-MiX - Unfinished Frescoes"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabgenshin_impact_ost": "MemesProjectDisc-Genshin Impact OST",
+      "subtitles.in_the_desolate_hallway": "Chen ZhiYi,HOYO-MiX - In the Desolate Hallway",
+      "subtitles.chattering_snowflakes": "Chen ZhiYi,HOYO-MiX - Chattering Snowflakes",
+      "item.memesprojectdiscforge.abiding_chills": "Abiding Chills",
+      "subtitles.ad_oblivione": "Chen ZhiYi,HOYO-MiX - Ad Oblivione",
+      "subtitles.finale_of_the_snowtomb": "Chen ZhiYi,HOYO-MiX - Finale of the Snowtomb",
+      "subtitles.spin_of_ice_crystals": "Chen ZhiYi,HOYO-MiX - Spin of Ice Crystals",
+      "subtitles.striding_in_the_snowstorm": "Chen ZhiYi,HOYO-MiX - Striding in the Snowstorm",
+      "subtitles.once-colored_memories": "Chen ZhiYi,HOYO-MiX - Once-Colored Memories",
+      "subtitles.snow-buried_tales": "Chen ZhiYi,HOYO-MiX - Snow-Buried Tales",
+      "subtitles.menacing_cove": "Chen ZhiYi,HOYO-MiX - Menacing Cove",
+      "subtitles.moonlike_smile": "Chen ZhiYi,HOYO-MiX - Moonlike Smile",
+      "subtitles.fragile_antasy": "Chen ZhiYi,HOYO-MiX - Fragile Fantasy",
+      "itemGroup.tabsuona_disc": "MemesProjectDisc-Suona Disc",
+      "item.memesprojectdiscforge.suona": "Suona",
+      "item.memesprojectdiscforge.abiding_chills.desc": "Chen ZhiYi,HOYO-MiX - Abiding Chills (Vortex of LegendsOST)",
+      "subtitles.the_flourishing_past": "Chen ZhiYi,HOYO-MiX - The Flourishing Past",
+      "subtitles.unfinished_frescoes": "Chen ZhiYi,HOYO-MiX - Unfinished Frescoes",
+      "subtitles.abiding_chills": "Chen ZhiYi,HOYO-MiX - Abiding Chills",
+      "item.memesprojectdiscforge.rough_star": "Rough Star",
+      "subtitles.glistening_shards": "Chen ZhiYi,HOYO-MiX - Glistening Shards",
+      "subtitles.serene_and_sweet_adieu": "Chen ZhiYi,HOYO-MiX - Serene and Sweet Adieu",
+      "subtitles.sinister_mist": "Chen ZhiYi,HOYO-MiX - Sinister Mist"
+    },
+    "zh_cn": {
+      "itemGroup.tabgenshin_impact_ost": "MemesProjectDisc-Ô­ÉñOST",
+      "subtitles.in_the_desolate_hallway": "Chen ZhiYi,HOYO-MiX - In the Desolate Hallway",
+      "subtitles.chattering_snowflakes": "Chen ZhiYi,HOYO-MiX - Chattering Snowflakes",
+      "item.memesprojectdiscforge.abiding_chills": "Abiding Chills",
+      "subtitles.ad_oblivione": "Chen ZhiYi,HOYO-MiX - Ad Oblivione",
+      "subtitles.finale_of_the_snowtomb": "Chen ZhiYi,HOYO-MiX - Finale of the Snowtomb",
+      "subtitles.spin_of_ice_crystals": "Chen ZhiYi,HOYO-MiX - Spin of Ice Crystals",
+      "subtitles.striding_in_the_snowstorm": "Chen ZhiYi,HOYO-MiX - Striding in the Snowstorm",
+      "subtitles.once-colored_memories": "Chen ZhiYi,HOYO-MiX - Once-Colored Memories",
+      "subtitles.snow-buried_tales": "Chen ZhiYi,HOYO-MiX - Snow-Buried Tales",
+      "subtitles.menacing_cove": "Chen ZhiYi,HOYO-MiX - Menacing Cove",
+      "subtitles.moonlike_smile": "Chen ZhiYi,HOYO-MiX - Moonlike Smile",
+      "subtitles.fragile_antasy": "Chen ZhiYi,HOYO-MiX - Fragile Fantasy",
+      "itemGroup.tabsuona_disc": "MemesProjectDisc-ßïÄÅ³ªÆ¬",
+      "item.memesprojectdiscforge.suona": "ßïÄÅ",
+      "item.memesprojectdiscforge.abiding_chills.desc": "Chen ZhiYi,HOYO-MiX - Abiding Chills",
+      "subtitles.the_flourishing_past": "Chen ZhiYi,HOYO-MiX - The Flourishing Past",
+      "subtitles.unfinished_frescoes": "Chen ZhiYi,HOYO-MiX - Unfinished Frescoes",
+      "subtitles.abiding_chills": "Chen ZhiYi,HOYO-MiX - Abiding Chills",
+      "item.memesprojectdiscforge.rough_star": "Rough Star",
+      "subtitles.glistening_shards": "Chen ZhiYi,HOYO-MiX - Glistening Shards",
+      "subtitles.serene_and_sweet_adieu": "Chen ZhiYi,HOYO-MiX - Serene and Sweet Adieu",
+      "subtitles.sinister_mist": "Chen ZhiYi,HOYO-MiX - Sinister Mist"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "memesprojectdiscforge",
+    "modName": "MemesProjectDisc-Forge",
+    "version": "0.0.1Alpha",
+    "author": "Tex, TexStudio,MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "memesprojectdflogo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator",
+    "modElementsPackage": "net.texstudio.memesprojectdiscforge",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

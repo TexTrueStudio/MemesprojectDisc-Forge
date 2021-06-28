@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "vortex_of_legends_ost",
+    "name": "Abiding Chills",
+    "description": "Chen ZhiYi,HOYO-MiX - Abiding Chills (Vortex of LegendsOST)",
+    "creativeTab": {
+      "value": "CUSTOM:GenshinImpactOST"
+    },
+    "music": {
+      "value": "CUSTOM:abiding_chills"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

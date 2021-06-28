@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "vortex_of_legends_ost",
+    "name": "Chattering Snowflakes",
+    "description": "Chen ZhiYi,HOYO-MiX - Chattering Snowflakes",
+    "creativeTab": {
+      "value": "CUSTOM:GenshinImpactOST"
+    },
+    "music": {
+      "value": "CUSTOM:chattering_snowflakes"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

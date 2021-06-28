@@ -1,1 +1,184 @@
-{}
+{
+  "abiding_chills": {
+    "category": "music",
+    "subtitle": "subtitles.abiding_chills",
+    "sounds": [
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_abiding_chills",
+        "stream": true
+      }
+    ]
+  },
+  "ad_oblivione": {
+    "category": "music",
+    "subtitle": "subtitles.ad_oblivione",
+    "sounds": [
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_ad_oblivione",
+        "stream": true
+      }
+    ]
+  },
+  "chattering_snowflakes": {
+    "category": "music",
+    "subtitle": "subtitles.chattering_snowflakes",
+    "sounds": [
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_chattering_snowflakes",
+        "stream": true
+      }
+    ]
+  },
+  "finale_of_the_snowtomb": {
+    "category": "music",
+    "subtitle": "subtitles.finale_of_the_snowtomb",
+    "sounds": [
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_finale_of_the_snowtomb",
+        "stream": true
+      }
+    ]
+  },
+  "fragile_antasy": {
+    "category": "music",
+    "subtitle": "subtitles.fragile_antasy",
+    "sounds": [
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_fragile_fantasy",
+        "stream": true
+      }
+    ]
+  },
+  "glistening_shards": {
+    "category": "music",
+    "subtitle": "subtitles.glistening_shards",
+    "sounds": [
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_glistening_shards",
+        "stream": true
+      }
+    ]
+  },
+  "in_the_desolate_hallway": {
+    "category": "music",
+    "subtitle": "subtitles.in_the_desolate_hallway",
+    "sounds": [
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_in_the_desolate_hallway",
+        "stream": true
+      }
+    ]
+  },
+  "menacing_cove": {
+    "category": "music",
+    "subtitle": "subtitles.menacing_cove",
+    "sounds": [
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_menacing_cove",
+        "stream": true
+      }
+    ]
+  },
+  "moonlike_smile": {
+    "category": "music",
+    "subtitle": "subtitles.moonlike_smile",
+    "sounds": [
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_moonlike_smile",
+        "stream": true
+      }
+    ]
+  },
+  "once-colored_memories": {
+    "category": "music",
+    "subtitle": "subtitles.once-colored_memories",
+    "sounds": [
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_once-colored_memories",
+        "stream": true
+      }
+    ]
+  },
+  "serene_and_sweet_adieu": {
+    "category": "music",
+    "subtitle": "subtitles.serene_and_sweet_adieu",
+    "sounds": [
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_serene_and_sweet_adieu",
+        "stream": true
+      },
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_serene_and_sweet_adieu",
+        "stream": true
+      }
+    ]
+  },
+  "sinister_mist": {
+    "category": "music",
+    "subtitle": "subtitles.sinister_mist",
+    "sounds": [
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_sinister_mist",
+        "stream": true
+      },
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_sinister_mist",
+        "stream": true
+      }
+    ]
+  },
+  "snow-buried_tales": {
+    "category": "music",
+    "subtitle": "subtitles.snow-buried_tales",
+    "sounds": [
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_snow-buried_tales",
+        "stream": true
+      },
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_snow-buried_tales",
+        "stream": true
+      }
+    ]
+  },
+  "spin_of_ice_crystals": {
+    "category": "music",
+    "subtitle": "subtitles.spin_of_ice_crystals",
+    "sounds": [
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_spin_of_ice_crystals",
+        "stream": true
+      }
+    ]
+  },
+  "striding_in_the_snowstorm": {
+    "category": "music",
+    "subtitle": "subtitles.striding_in_the_snowstorm",
+    "sounds": [
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_striding_in_the_snowstorm",
+        "stream": true
+      }
+    ]
+  },
+  "the_flourishing_past": {
+    "category": "music",
+    "subtitle": "subtitles.the_flourishing_past",
+    "sounds": [
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_the_flourishing_past",
+        "stream": true
+      }
+    ]
+  },
+  "unfinished_frescoes": {
+    "category": "music",
+    "subtitle": "subtitles.unfinished_frescoes",
+    "sounds": [
+      {
+        "name": "memesprojectdiscforge:chen_zhiyihoyo-mix_-_unfinished_frescoes",
+        "stream": true
+      }
+    ]
+  }
+}

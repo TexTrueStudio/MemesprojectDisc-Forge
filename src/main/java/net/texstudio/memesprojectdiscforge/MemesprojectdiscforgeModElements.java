@@ -45,6 +45,40 @@ public class MemesprojectdiscforgeModElements {
 	public final List<Supplier<Enchantment>> enchantments = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public MemesprojectdiscforgeModElements() {
+		sounds.put(new ResourceLocation("memesprojectdiscforge", "abiding_chills"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("memesprojectdiscforge", "abiding_chills")));
+		sounds.put(new ResourceLocation("memesprojectdiscforge", "ad_oblivione"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("memesprojectdiscforge", "ad_oblivione")));
+		sounds.put(new ResourceLocation("memesprojectdiscforge", "chattering_snowflakes"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("memesprojectdiscforge", "chattering_snowflakes")));
+		sounds.put(new ResourceLocation("memesprojectdiscforge", "finale_of_the_snowtomb"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("memesprojectdiscforge", "finale_of_the_snowtomb")));
+		sounds.put(new ResourceLocation("memesprojectdiscforge", "fragile_antasy"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("memesprojectdiscforge", "fragile_antasy")));
+		sounds.put(new ResourceLocation("memesprojectdiscforge", "glistening_shards"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("memesprojectdiscforge", "glistening_shards")));
+		sounds.put(new ResourceLocation("memesprojectdiscforge", "in_the_desolate_hallway"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("memesprojectdiscforge", "in_the_desolate_hallway")));
+		sounds.put(new ResourceLocation("memesprojectdiscforge", "menacing_cove"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("memesprojectdiscforge", "menacing_cove")));
+		sounds.put(new ResourceLocation("memesprojectdiscforge", "moonlike_smile"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("memesprojectdiscforge", "moonlike_smile")));
+		sounds.put(new ResourceLocation("memesprojectdiscforge", "once-colored_memories"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("memesprojectdiscforge", "once-colored_memories")));
+		sounds.put(new ResourceLocation("memesprojectdiscforge", "serene_and_sweet_adieu"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("memesprojectdiscforge", "serene_and_sweet_adieu")));
+		sounds.put(new ResourceLocation("memesprojectdiscforge", "sinister_mist"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("memesprojectdiscforge", "sinister_mist")));
+		sounds.put(new ResourceLocation("memesprojectdiscforge", "snow-buried_tales"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("memesprojectdiscforge", "snow-buried_tales")));
+		sounds.put(new ResourceLocation("memesprojectdiscforge", "spin_of_ice_crystals"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("memesprojectdiscforge", "spin_of_ice_crystals")));
+		sounds.put(new ResourceLocation("memesprojectdiscforge", "striding_in_the_snowstorm"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("memesprojectdiscforge", "striding_in_the_snowstorm")));
+		sounds.put(new ResourceLocation("memesprojectdiscforge", "the_flourishing_past"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("memesprojectdiscforge", "the_flourishing_past")));
+		sounds.put(new ResourceLocation("memesprojectdiscforge", "unfinished_frescoes"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("memesprojectdiscforge", "unfinished_frescoes")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("memesprojectdiscforge").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();
