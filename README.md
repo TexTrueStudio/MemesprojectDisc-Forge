@@ -1,5 +1,8 @@
 # MemesProjectDisc-Forge
 
+由于暂时无法正常访问Github，下载等请转到[Gitee](https://gitee.com/tex-true-studio/MemesProjectDisc-Forge)。 
+[Because we can't access GitHub, please go to [gitee](https://gitee.com/tex-true-studio/MemesProjectDisc-Forge).]
+
 此模组为MemesProject(以下简称MP)附属模组（联动需安装MemesProjectRecipesDataPack），当然你可以单独使用（因为我没有给添加前置条件），此模组是为解决主模组唱片过多，由于fabric-loom在中国访问问题无法进行环境配置，所以仅支持Forge
 
 EN:[This module is a MemesProject (hereafter referred to as MP) accessory module, of course you can use it alone (because I did not add preconditions), this module is to solve the problem of too many MP records, because the fabric-loom cannot be accessed in China To configure, so only Forge is supported]
